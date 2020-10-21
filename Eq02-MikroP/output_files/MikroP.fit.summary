@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Dec 10 17:48:46 2019
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : MikroP
+Top-level Entity Name : MikroP
+Family : Cyclone II
+Device : EP2C20F484C7
+Timing Models : Final
+Total logic elements : 2,001 / 18,752 ( 11 % )
+    Total combinational functions : 1,352 / 18,752 ( 7 % )
+    Dedicated logic registers : 1,324 / 18,752 ( 7 % )
+Total registers : 1324
+Total pins : 36 / 315 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 3,584 / 239,616 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 52 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
